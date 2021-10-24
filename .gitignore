@@ -51,6 +51,11 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
+```python
+# Adding config.py file.
+api_keys.py
+```
+
 # Translations
 *.mo
 *.pot
@@ -127,3 +132,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# API Excercise
+api_keys.py
+*.ipynb
+
